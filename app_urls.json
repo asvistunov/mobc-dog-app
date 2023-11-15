@@ -1,10 +1,14 @@
 {
-    "asvisunov-app":{
-        "github": "https://github.com/asvistunov/mobc-dog-clinic-app.git",
-        "url": "https://mobc-dog-clinic-app.onrender.com/"
-    },
-    "asvisunov-app-wrong": {
-        "github": "https://github.com/asvistunov/mobc-dog-clinic-app-wrong-spec.git",
-        "url": "https://mobc-dog-clinic-wrong-spec.onrender.com/"
-    }
+    "students_apps": [
+        {
+            "student_id": "asvisunov",
+            "github": "https://github.com/asvistunov/mobc-dog-clinic-app.git",
+            "url": "https://mobc-dog-clinic-app.onrender.com/"
+        },
+        {
+            "student_id": "asvisunov-wrong",
+            "github": "https://github.com/asvistunov/mobc-dog-clinic-app-wrong-spec.git",
+            "url": "https://mobc-dog-clinic-wrong-spec.onrender.com/"
+        }
+    ]
 }
