@@ -14,8 +14,8 @@ git clone https://github.com/asvistunov/mobc-dog-clinic-testing.git
 ```bash
 pip3 install -r requirements.txt
 ```
-
-3. Конфигурация
+> Скрипт написан на python3.10
+1. Конфигурация
 
 Создайте файл `app_urls.json` со следующей структурой:
 ```json
