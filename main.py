@@ -40,7 +40,7 @@ for app in app_urls['students_apps']:
         testing_image, _ = client.images.build(
             path='docker/app-testing/',
             tag=f'{url_type}_clinic-app-testing',
-                buildargs={
+            buildargs={
                 'APP_URL': app[url_type] if url_type == 'url' else 'http://clinic-app:80'
             }
         )
