@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 
 5. Запуск тестов
 ```bash
-python3 test_api.py
+python3 main.py
 ```
 
 ## Процесс тестирования
